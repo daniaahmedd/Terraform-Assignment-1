@@ -1,0 +1,6 @@
+tenancy_ocid = "ocid1.tenancy.oc1..aaaaaaaanywbot2vx5lgvwpyrgyoqhwdkclh4k3qkq3moen6oapxekpzyv7a"
+user_ocid = "ocid1.user.oc1..aaaaaaaa7jlccty3dvbcjji4qevkgzqjhy27nhnuhn5qfemxmgnvjx5uy4ma"
+fingerprint = "4c:6b:e3:17:09:69:aa:5c:3a:66:03:d4:46:49:cd:f4"
+private_key_path = "D:/Assignment1/private_key.pem"
+region = "eu-frankfurt-1"
+compartment_ocid = "ocid1.compartment.oc1..aaaaaaaadcd4ygf7ygsqjwk4od7w4gwzhmvv7ujbqydoqwzpka6hu7xdbopq"
